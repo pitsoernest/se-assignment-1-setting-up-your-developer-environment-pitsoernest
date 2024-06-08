@@ -1,0 +1,76 @@
+Tsosang Ernest Pitso
+
+SE-Assignment-1                              Due:30/05/2024
+
+Title: Setting Up GitHub, VSCode, Python, and Initializing a Sample Project
+
+Step 1: Installing Required Software
+
+1. GitHub Desktop:
+   - Download and install GitHub Desktop from [here](https://desktop.github.com/).
+   - Follow the installation prompts.
+   
+2. Visual Studio Code (VSCode):
+   - Download and install VSCode from [here](https://code.visualstudio.com/).
+   - Follow the installation prompts.
+
+3. Python:
+   - Download and install Python from [here](https://www.python.org/downloads/).
+   - During installation, make sure to check the box that says "Add Python to PATH".
+   - Follow the installation prompts.
+
+Step 2: Configuring GitHub
+
+1. Create GitHub Account:
+   - If you don't have a GitHub account, sign up for one [here](https://github.com/join).
+
+2. Authenticate GitHub Desktop:
+   - Open GitHub Desktop and sign in with your GitHub account.
+   - Follow the prompts to authenticate.
+
+3. Set Up Git:
+   - If prompted, configure your Git identity (name and email) in GitHub Desktop.
+
+Step 3: Setting Up VSCode
+
+1. Install GitHub Extension for VSCode:
+   - Open VSCode.
+   - Go to Extensions (Ctrl+Shift+X).
+   - Search for "GitHub Pull Requests and Issues" and install it.
+
+Step 4: Initializing a Sample Project
+
+1. Create a New Repository:
+   - In GitHub Desktop, click on "File" > "New Repository".
+   - Choose a name and location for your repository.
+   - Click on "Create Repository".
+
+2. Initialize Git Repository in VSCode:
+   - Open VSCode.
+   - Open your project folder.
+   - Open the terminal (Ctrl+`) and run:
+     ```
+     git init
+     ```
+
+3. Create Sample Files:
+   - Add sample files to your project folder.
+
+4. Commit Changes:
+   - In GitHub Desktop, stage and commit your changes.
+   - Push your changes to GitHub.
+
+Step 5: Reflection on Challenges
+
+- Challenge: Configuring Git for the first time.
+  - Strategy: Followed online tutorials and documentation to understand Git basics and used GitHub Desktop for easier management.
+
+- Challenge: Setting up Python environment paths.
+  - Strategy: Followed Python installation instructions carefully and ensured Python was added to the PATH environment variable.
+
+- Challenge: Understanding the workflow between VSCode and GitHub.
+  - Strategy: Installed the GitHub extension for VSCode and referred to documentation and forums for best practices.
+
+Conclusion
+
+Setting up GitHub, VSCode, Python, and initializing a sample project involves installing the necessary software, configuring GitHub, and understanding basic Git commands. Challenges may arise, but with patience and utilizing available resources, the setup process can be successfully completed.
